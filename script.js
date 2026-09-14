@@ -36,13 +36,12 @@ const SERVICES = [
 ];
 
 const TIME_SLOTS = [
-  "09:00",
-  "10:30",
-  "13:00",
-  "14:30",
-  "16:00",
-  "17:30",
-  "19:00",
+  "07:30, Ter & Qua",
+  "9:30, Ter & Qua",
+  "7:40, Sab & Dom",
+  "9:30, Sab & Dom",
+  "14:30, Sab & Dom",
+  "16:30, Sab & Dom",
 ];
 
 const GALLERY = [
