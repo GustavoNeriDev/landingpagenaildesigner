@@ -834,6 +834,18 @@ html.js .reveal.in {
     grid-template-columns: repeat(3, 1fr);
   }
 }
+.privacy-notice {
+  font-size: 13px;
+  line-height: 1.5;
+  color: #777;
+  text-align: center;
+  margin: 15px 0;
+}
+
+.privacy-notice a {
+  color: inherit;
+  text-decoration: underline;
+}
 .svc {
   display: flex;
   flex-direction: column;
